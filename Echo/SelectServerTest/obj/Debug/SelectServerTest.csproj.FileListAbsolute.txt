@@ -1,0 +1,7 @@
+D:\UnityWorkSpace\Echo\SelectServerTest\bin\Debug\SelectServerTest.exe.config
+D:\UnityWorkSpace\Echo\SelectServerTest\bin\Debug\SelectServerTest.exe
+D:\UnityWorkSpace\Echo\SelectServerTest\bin\Debug\SelectServerTest.pdb
+D:\UnityWorkSpace\Echo\SelectServerTest\obj\Debug\SelectServerTest.csproj.AssemblyReference.cache
+D:\UnityWorkSpace\Echo\SelectServerTest\obj\Debug\SelectServerTest.csproj.CoreCompileInputs.cache
+D:\UnityWorkSpace\Echo\SelectServerTest\obj\Debug\SelectServerTest.exe
+D:\UnityWorkSpace\Echo\SelectServerTest\obj\Debug\SelectServerTest.pdb
