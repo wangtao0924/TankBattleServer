@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Echo
+namespace Echo.Script.net
 {
-    class Program
+    class ByteArray
     {
-        static void Main(string[] args)
-        {
 
-        }
     }
 }

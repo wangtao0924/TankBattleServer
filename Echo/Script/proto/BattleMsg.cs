@@ -4,13 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Echo
+namespace Echo.Script.proto
 {
-    class Program
+    class BattleMsg
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
